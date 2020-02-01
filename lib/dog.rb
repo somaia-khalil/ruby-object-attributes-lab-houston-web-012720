@@ -16,6 +16,7 @@ class Dog
     @breed
   end 
 end 
-
+a1 = Dog.new 
+a1.name = "hey"
 binding.pry
 
