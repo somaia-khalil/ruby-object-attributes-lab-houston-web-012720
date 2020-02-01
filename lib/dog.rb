@@ -18,6 +18,6 @@ class Dog
 end 
 a1 = Dog.new 
 a1.name = "hey"
-a1.name
+p a1.name
 binding.pry
 
